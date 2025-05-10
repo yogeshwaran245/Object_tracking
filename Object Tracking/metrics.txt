@@ -1,0 +1,87 @@
+Object Tracking Summary
+=======================
+
+ID: 69 | Class: person | Duration: 9.73 sec
+ID: 66 | Class: bag | Duration: 7.57 sec
+ID: 5 | Class: person | Duration: 7.30 sec
+ID: 39 | Class: person | Duration: 7.20 sec
+ID: 35 | Class: person | Duration: 7.17 sec
+ID: 32 | Class: person | Duration: 7.03 sec
+ID: 1 | Class: person | Duration: 6.70 sec
+ID: 36 | Class: person | Duration: 6.60 sec
+ID: 12 | Class: bag | Duration: 5.57 sec
+ID: 87 | Class: person | Duration: 5.57 sec
+ID: 96 | Class: person | Duration: 5.27 sec
+ID: 22 | Class: person | Duration: 5.17 sec
+ID: 88 | Class: person | Duration: 5.17 sec
+ID: 48 | Class: person | Duration: 4.90 sec
+ID: 15 | Class: person | Duration: 4.17 sec
+ID: 105 | Class: person | Duration: 4.03 sec
+ID: 2 | Class: person | Duration: 3.93 sec
+ID: 3 | Class: person | Duration: 3.47 sec
+ID: 4 | Class: person | Duration: 3.43 sec
+ID: 43 | Class: person | Duration: 3.43 sec
+ID: 94 | Class: person | Duration: 3.37 sec
+ID: 38 | Class: person | Duration: 3.20 sec
+ID: 19 | Class: person | Duration: 2.97 sec
+ID: 121 | Class: person | Duration: 2.30 sec
+ID: 84 | Class: person | Duration: 2.27 sec
+ID: 97 | Class: bag | Duration: 2.23 sec
+ID: 128 | Class: person | Duration: 2.07 sec
+ID: 89 | Class: bag | Duration: 1.77 sec
+ID: 130 | Class: person | Duration: 1.77 sec
+ID: 57 | Class: person | Duration: 1.67 sec
+ID: 136 | Class: person | Duration: 1.43 sec
+ID: 101 | Class: person | Duration: 1.27 sec
+ID: 8 | Class: person | Duration: 1.00 sec
+ID: 7 | Class: person | Duration: 0.93 sec
+ID: 9 | Class: person | Duration: 0.93 sec
+ID: 6 | Class: person | Duration: 0.87 sec
+ID: 55 | Class: bag | Duration: 0.83 sec
+ID: 122 | Class: bag | Duration: 0.80 sec
+ID: 45 | Class: person | Duration: 0.77 sec
+ID: 79 | Class: person | Duration: 0.73 sec
+ID: 50 | Class: person | Duration: 0.60 sec
+ID: 93 | Class: bag | Duration: 0.60 sec
+ID: 117 | Class: bag | Duration: 0.57 sec
+ID: 118 | Class: person | Duration: 0.57 sec
+ID: 134 | Class: person | Duration: 0.57 sec
+ID: 63 | Class: person | Duration: 0.53 sec
+ID: 108 | Class: bag | Duration: 0.53 sec
+ID: 112 | Class: person | Duration: 0.53 sec
+ID: 41 | Class: person | Duration: 0.47 sec
+ID: 111 | Class: bag | Duration: 0.43 sec
+ID: 115 | Class: bag | Duration: 0.43 sec
+ID: 30 | Class: person | Duration: 0.37 sec
+ID: 123 | Class: person | Duration: 0.33 sec
+ID: 62 | Class: bag | Duration: 0.30 sec
+ID: 106 | Class: bag | Duration: 0.30 sec
+ID: 31 | Class: person | Duration: 0.23 sec
+ID: 33 | Class: bag | Duration: 0.23 sec
+ID: 140 | Class: person | Duration: 0.23 sec
+ID: 141 | Class: bag | Duration: 0.20 sec
+ID: 142 | Class: person | Duration: 0.20 sec
+ID: 29 | Class: person | Duration: 0.17 sec
+ID: 14 | Class: person | Duration: 0.13 sec
+ID: 20 | Class: person | Duration: 0.13 sec
+ID: 139 | Class: person | Duration: 0.13 sec
+ID: 86 | Class: person | Duration: 0.10 sec
+ID: 40 | Class: bag | Duration: 0.07 sec
+ID: 99 | Class: person | Duration: 0.07 sec
+ID: 104 | Class: person | Duration: 0.07 sec
+ID: 114 | Class: person | Duration: 0.07 sec
+ID: 13 | Class: bag | Duration: 0.03 sec
+ID: 26 | Class: person | Duration: 0.03 sec
+ID: 27 | Class: bag | Duration: 0.03 sec
+ID: 44 | Class: bag | Duration: 0.03 sec
+ID: 75 | Class: person | Duration: 0.03 sec
+ID: 91 | Class: person | Duration: 0.03 sec
+ID: 92 | Class: person | Duration: 0.03 sec
+ID: 103 | Class: bag | Duration: 0.03 sec
+
+Summary:
+Total Unique IDs: 77
+  - person: 57
+  - bag: 20
+Video Length: 17.50 seconds
+Processing Time: 26.99 seconds
