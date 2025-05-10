@@ -1,9 +1,0 @@
-ultralytics==8.0.20
-opencv-python
-cython
-cython-bbox
-numpy
-scikit-image
-lap
-motmetrics
-matplotlib
