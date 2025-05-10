@@ -59,23 +59,17 @@ The system provides a complete pipeline from detection to visualization, with br
 
 ## Usage
 
-### Running the Object Tracker
+1. Place your input video in the `input/` directory or use the default test video provided.
 
-```python
-from object_tracker import MacVObjectTracker
+2. Run the object tracker:
+   ```bash
+   python object_tracker.py --input input/your_video.mp4 --output output/processed_video.mp4
+   ```
 
-# Initialize the tracker with video input
-tracker = MacVObjectTracker(
-    input_video="path/to/input_video.mp4",
-    output_video="path/to/output_video.mp4"
-)
-
-# Run the tracking process
-tracker.process()
-
-# Generate HTML viewer
-tracker.generate_html("output_viewer.html")
-```
+3. View the output:
+   - Open `output/processed_video.mp4` to see the video with object tracking
+   - Check `results.json` for tracking metrics and statistics
+   - Open `index.html` in a browser to view the embedded video result
 
 ### Command Line Usage
 
@@ -134,7 +128,15 @@ For better performance:
 - Reduce input frame resolution for faster processing
 - Consider using smaller YOLOv8 variants (nano or small)
 - Adjust detection confidence threshold based on video quality
+  
+## Future Improvements
 
+- Implement more advanced tracking algorithms (DeepSORT, ByteTrack)
+- Add classification capabilities to identify specific object types
+- Enhance the web interface with interactive controls
+- Incorporate activity recognition based on tracked movement patterns
+- Optimize for real-time performance on edge devices
+  
 ## Contributing
 
 Contributions to this project are welcome! Please feel free to submit a Pull Request.
